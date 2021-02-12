@@ -1,0 +1,2 @@
+# atividadeMySQL
+Exercicios into mySQL
